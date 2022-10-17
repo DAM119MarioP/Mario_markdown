@@ -30,3 +30,14 @@ Comando usado en el ejercicio K:
 | Vanessa | Luis |
 | -------- | -------- |
 | https://github.com/VanessaSantosPuente/Vanessa_markdown | https://github.com/DAW201/Luis_Concha_MARKDOWN |
+
+Documentar todo lo hecho:
+
+`git branch nombreRama`
+`git checkout nombreRama`
+`git push origin nombreRama` 
+`git checkout main`
+Borrar la rama
+`git branch -d nombreRama`
+`git merge nombreRama` Desde la main
+ 
